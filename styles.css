@@ -1,0 +1,32 @@
+#target {
+  display: inline-block;
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+
+  /*position: absolute;*/
+  /*right: 30em;*/
+  /*top: 50em;*/
+}
+
+#other {
+    display: inline-block;
+    background-color: green;
+    width: 200px;
+    height: 200px;
+
+    position: absolute;
+    left: 30px;
+    top: 10px;
+}
+
+#container {
+  position: relative;
+  background-color: purple;
+  top: 40px;
+  /*height: 300px;*/
+}
+
+div {
+  background-color: black;
+}
